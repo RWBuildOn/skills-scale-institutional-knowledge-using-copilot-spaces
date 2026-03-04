@@ -29,6 +29,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
 
+## Templates
+- [Release Readiness Checklist](templates/octoacme-release-readiness-checklist.md) — use during the Release Readiness Review to confirm all pre-release criteria and approvals are complete.
+
 ## Release Notes Template
 - Release name / number:
 - Date:
